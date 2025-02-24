@@ -17,11 +17,11 @@
       <v-simple-table>
         <tr>
             <td><img src="img/bca.png"></td>
-            <td>BCA KCP abc No Rek 123</td>
+            <td>BCA KCP abc No Rek 09871972</td>
         </tr>
         <tr>
             <td><img src="img/mandiri.png"></td>
-            <td>BANK MANDIRI KCP xyz No Rek 456</td>
+            <td>BANK MANDIRI KCP xyz No Rek 5716729</td>
         </tr>
       </v-simple-table>
     </v-container>
